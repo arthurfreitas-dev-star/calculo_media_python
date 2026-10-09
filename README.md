@@ -18,6 +18,6 @@
 ## Autor e contato:
  Arthur Victor Couto Freitas
 
- E-mail: arthurfreitas8anocim@gmail.com
+ E-mail: arthurfreitas082007@outlook.com
 
  WhatsApp: (+55) 11 93456-5040
