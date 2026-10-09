@@ -8,7 +8,7 @@ media = calcular_media(n1, n2)
 print(f"A média final é: {media:.2f}")
 
 if media >= 7.0:
-    print("Aprovado! =)")
+    print("Aprovado!")
 else:
-    print("Reprovado! ;-;")
+    print("Reprovado!")
     
