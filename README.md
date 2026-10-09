@@ -19,5 +19,3 @@
  Arthur Victor Couto Freitas
 
  E-mail: arthurfreitas082007@outlook.com
-
- WhatsApp: (+55) 11 93456-5040
